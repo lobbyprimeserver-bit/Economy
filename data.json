@@ -1,0 +1,64 @@
+{
+  "users": {
+    "571787399256997891": {
+      "balance": 0,
+      "lastDaily": 0,
+      "bank": 0
+    },
+    "866379689160343615": {
+      "balance": 0,
+      "lastDaily": 0,
+      "bank": 0
+    },
+    "1405054466993946654": {
+      "balance": 0,
+      "lastDaily": 0,
+      "bank": 20
+    },
+    "1436477424895393954": {
+      "balance": -5,
+      "lastDaily": 0,
+      "bank": 3388,
+      "lastRob": 1765497804576
+    },
+    "1415430610515660833": {
+      "balance": 0,
+      "lastDaily": 0,
+      "bank": 571,
+      "lastRob": 1765499470254
+    },
+    "847588725679456257": {
+      "balance": 0,
+      "lastDaily": 0,
+      "bank": 155,
+      "lastRob": 1765499481546
+    },
+    "1439668083978666005": {
+      "balance": 0,
+      "lastDaily": 0,
+      "bank": 78,
+      "lastRob": 1765499501643
+    },
+    "1403069078482059398": {
+      "balance": 6120,
+      "bank": 0,
+      "lastDaily": 0,
+      "lastRob": 0
+    },
+    "680056033154039820": {
+      "balance": 0,
+      "bank": 1000,
+      "lastDaily": 0
+    },
+    "1431746487498440717": {
+      "balance": 0,
+      "bank": 0,
+      "lastDaily": 0
+    },
+    "1409170345126269029": {
+      "balance": 0,
+      "bank": 0,
+      "lastDaily": 0
+    }
+  }
+}
